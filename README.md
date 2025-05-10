@@ -146,7 +146,7 @@ static class Market {
     }
 }
 
-output
+output :
 --- Market Prices ---
 GOOGL: $2754.03
 AAPL: $6006.50
